@@ -50,7 +50,7 @@ This project demonstrates the speed control of a DC motor using Pulse Width Modu
 [▶ Watch Demo Video](Task2_video.mp4)
 
 ## Arduino Source Code
-
+```cpp
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
