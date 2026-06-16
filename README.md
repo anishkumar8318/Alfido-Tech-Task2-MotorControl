@@ -1,8 +1,8 @@
 # 🚗 Task 2: Motor Control with PWM & Obstacle Detection
 
-**Internship:** Embedded Systems Internship at Alfido Tech  
-**Name:** ANISH KUMAR
- **Candidate ID:** BS/REG/122708
+* **Internship:** Embedded Systems Internship at Alfido Tech  
+* **Name:** ANISH KUMAR  
+* **Candidate ID:** BS/REG/122708
 
 ---
 
