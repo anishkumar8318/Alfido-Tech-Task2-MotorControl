@@ -2,7 +2,7 @@
 
 **Internship:** Embedded Systems Internship at Alfido Tech  
 **Name:** ANISH KUMAR
-**Candidate ID:** BS/REG/122708
+ **Candidate ID:** BS/REG/122708
 
 ---
 
